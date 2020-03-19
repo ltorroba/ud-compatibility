@@ -5,7 +5,7 @@ from languages import LanguageCoding
 
 # These must be pathlib Path objects.
 # Easy way: Path('whatever/my/path/is')
-_ROOT = Path("/Users/arya/Desktop/UD_UM") / "data" / "raw"
+_ROOT = Path("/Users/ltorroba/Documents/Git/interpbert-pytorch/data/ud") / "ud-treebanks-v2.5"
 UM_FOLDER = _ROOT / "UM"
 UD_FOLDER = _ROOT / "UD"
 UD2UM_FILE = Path(".") / "UD-UniMorph.tsv"
