@@ -17,7 +17,8 @@ UmFeats = FrozenSet[UmFeat]
 class UniMorphTriple(NamedTuple):
     form: Form
     lemma: Lemma
-    feats: Set[UmFeat]
+    #feats: Set[UmFeat]
+    feats: Set
 
 
 class UdTag(Set):
