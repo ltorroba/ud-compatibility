@@ -1,6 +1,8 @@
+
+_**NOTE:** This repository is a slightly modified clone of [the original UD to UM schema converter](https://github.com/unimorph/ud-compatibility). I had some trouble running the original one on my environment. It is possible that the original, unmodified tool would work in your case--if so, consider using it._
+
 # ud-compatibility
 Utility for converting Universal Dependencies–annotated corpora to UniMorph
-
 
 The [Universal Dependencies (UD)](http://universaldependencies.org) and [Universal Morphology (UniMorph)](https://unimorph.github.io) projects each present schemata for annotating the morphosyntactic details of a language.
 Each project also provides corpora of annotated text in many languages—UD at the token level and UniMorph at the type level.
