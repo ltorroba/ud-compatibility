@@ -1,5 +1,5 @@
 
-_**NOTE:** This repository is a slightly modified clone of [the original UD to UM schema converter](https://github.com/unimorph/ud-compatibility). I had some trouble running the original one on my environment. It is possible that the original, unmodified tool would work in your case--if so, consider using it._
+_**NOTE:** This repository is a slightly modified clone of [the original UD to UM schema converter](https://github.com/unimorph/ud-compatibility). I had some trouble running the original one on my environment. It is possible that the original, unmodified tool would work in your case. If so, consider using it._
 
 # ud-compatibility
 Utility for converting Universal Dependencies–annotated corpora to UniMorph
